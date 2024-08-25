@@ -50,7 +50,7 @@ The goal is to build a model that can effectively distinguish between real and f
 
 **Getting Started**
 
-1. Clone this repository: `git clone https://github.com/<your-username>/fake-news-prediction.git`
+1. Clone this repository: `https://github.com/vir123-devf/fake-news-prediction.git`
 
 **Future Enhancements**
 
